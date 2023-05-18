@@ -33,4 +33,7 @@ Here are some ideas to get you started:
     <a href="mailto:utkrisht19215@iiitd.ac.in"><img
             src="https://img.icons8.com/color/48/000000/gmail-new.png" alt='gmail'
             height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:utkrishtsikka@gmail.com"><img
+            src="https://img.icons8.com/color/48/000000/gmail-new.png" alt='gmail'
+            height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
